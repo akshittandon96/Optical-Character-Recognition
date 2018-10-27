@@ -1,0 +1,119 @@
+C:\Users\Administrator\Downloads\ocr_src\OCR Source\OCR\bin\Debug\OCR.exe
+C:\Users\Administrator\Downloads\ocr_src\OCR Source\OCR\bin\Debug\OCR.pdb
+C:\Users\Administrator\Downloads\ocr_src\OCR Source\OCR\bin\Debug\NeuronDotNet.Controls.dll
+C:\Users\Administrator\Downloads\ocr_src\OCR Source\OCR\bin\Debug\NeuronDotNet.Core.dll
+C:\Users\Administrator\Downloads\ocr_src\OCR Source\OCR\bin\Debug\NeuronDotNet.Core.xml
+C:\Users\Administrator\Downloads\ocr_src\OCR Source\OCR\bin\Debug\NeuronDotNet.Controls.pdb
+C:\Users\Administrator\Downloads\ocr_src\OCR Source\OCR\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\ocr_src\OCR Source\OCR\obj\Debug\OCR.exe
+C:\Users\Administrator\Downloads\ocr_src\OCR Source\OCR\obj\Debug\OCR.pdb
+E:\Student Projects2010-11\DotNetProjects\HandWrittenCharacterRecognition\OCR\obj\Debug\OCR.exe
+E:\Student Projects2010-11\DotNetProjects\HandWrittenCharacterRecognition\OCR\obj\Debug\OCR.pdb
+E:\Student Projects2010-11\DotNetProjects\HandWrittenCharacterRecognition\OCR\obj\Debug\ResolveAssemblyReference.cache
+E:\Student Projects2010-11\DotNetProjects\HandWrittenCharacterRecognition\OCR\bin\Debug\OCR.exe
+E:\Student Projects2010-11\DotNetProjects\HandWrittenCharacterRecognition\OCR\bin\Debug\OCR.pdb
+E:\Student Projects2010-11\DotNetProjects\HandWrittenCharacterRecognition\OCR\bin\Debug\NeuronDotNet.Core.dll
+E:\Student Projects2010-11\DotNetProjects\HandWrittenCharacterRecognition\OCR\bin\Debug\NeuronDotNet.Core.xml
+C:\Users\Niro Thakur\Desktop\OCR\OCR\obj\Debug\OCR.exe
+C:\Users\Niro Thakur\Desktop\OCR\OCR\obj\Debug\OCR.pdb
+C:\Users\Niro Thakur\Desktop\OCR\OCR\bin\Debug\OCR.exe
+C:\Users\Niro Thakur\Desktop\OCR\OCR\bin\Debug\OCR.pdb
+C:\Users\Niro Thakur\Desktop\OCR\OCR\bin\Debug\NeuronDotNet.Core.dll
+C:\Users\Niro Thakur\Desktop\OCR\OCR\bin\Debug\NeuronDotNet.Core.xml
+C:\Users\Niro Thakur\Desktop\OCR\OCR\obj\Debug\ResolveAssemblyReference.cache
+D:\All SYSTEM\7-12-2014\OCR\OCR\obj\Debug\OCR.exe
+D:\All SYSTEM\7-12-2014\OCR\OCR\obj\Debug\OCR.pdb
+D:\All SYSTEM\7-12-2014\OCR\OCR\bin\Debug\OCR.exe
+D:\All SYSTEM\7-12-2014\OCR\OCR\bin\Debug\OCR.pdb
+D:\All SYSTEM\7-12-2014\OCR\OCR\bin\Debug\NeuronDotNet.Core.dll
+D:\All SYSTEM\7-12-2014\OCR\OCR\bin\Debug\NeuronDotNet.Core.xml
+D:\All SYSTEM\7-12-2014\OCR\OCR\obj\Debug\ResolveAssemblyReference.cache
+D:\All SYSTEM\7-12-2014\OCR\OCR\obj\Debug\NeuronDotNet.Samples.CharacterRecognition.MainForm.resources
+D:\All SYSTEM\7-12-2014\OCR\OCR\obj\Debug\ResGen.read.1.tlog
+D:\All SYSTEM\7-12-2014\OCR\OCR\obj\Debug\ResGen.write.1.tlog
+D:\All SYSTEM\7-12-2014\OCR\OCR\obj\Debug\Interop.MODI.dll
+D:\All SYSTEM\7-12-2014\OCR\OCR\obj\Debug\OCR.csproj.ResolveComReference.cache
+D:\All SYSTEM\7-12-2014\OCR\OCR\bin\Debug\Interop.MODI.dll
+D:\All SYSTEM\7-12-2014\OCR\OCR\obj\Debug\NeuronDotNet.Samples.CharacterRecognition.Home.resources
+D:\All SYSTEM\7-12-2014\OCR\OCR\obj\Debug\NeuronDotNet.Samples.CharacterRecognition.ImageToText.resources
+D:\All SYSTEM\7-12-2014\OCR\OCR\obj\Debug\NeuronDotNet.Samples.CharacterRecognition.AboutUs.resources
+D:\All SYSTEM\7-12-2014\OCR\OCR\obj\Debug\NeuronDotNet.Samples.CharacterRecognition.CaptureImage.resources
+D:\All SYSTEM\7-12-2014\OCR\OCR\bin\Debug\WebCam_Capture.dll
+D:\All SYSTEM\7-12-2014\OCR\OCR\obj\Debug\NeuronDotNet.Samples.OCR.Properties.Resources.resources
+D:\New Projecttttttttttttttttttttt\OCR\obj\Debug\Interop.MODI.dll
+D:\New Projecttttttttttttttttttttt\OCR\obj\Debug\OCR.csproj.ResolveComReference.cache
+D:\New Projecttttttttttttttttttttt\OCR\obj\Debug\OCR.exe
+D:\New Projecttttttttttttttttttttt\OCR\obj\Debug\OCR.pdb
+D:\New Projecttttttttttttttttttttt\OCR\bin\Debug\OCR.exe
+D:\New Projecttttttttttttttttttttt\OCR\bin\Debug\OCR.pdb
+D:\New Projecttttttttttttttttttttt\OCR\bin\Debug\NeuronDotNet.Core.dll
+D:\New Projecttttttttttttttttttttt\OCR\bin\Debug\NeuronDotNet.Core.xml
+D:\New Projecttttttttttttttttttttt\OCR\bin\Debug\Interop.MODI.dll
+D:\New Projecttttttttttttttttttttt\OCR\obj\Debug\ResolveAssemblyReference.cache
+D:\New Projecttttttttttttttttttttt\OCR\obj\Debug\NeuronDotNet.Samples.CharacterRecognition.AboutUs.resources
+D:\New Projecttttttttttttttttttttt\OCR\obj\Debug\NeuronDotNet.Samples.CharacterRecognition.CaptureImage.resources
+D:\New Projecttttttttttttttttttttt\OCR\obj\Debug\NeuronDotNet.Samples.CharacterRecognition.Home.resources
+D:\New Projecttttttttttttttttttttt\OCR\obj\Debug\NeuronDotNet.Samples.CharacterRecognition.ImageToText.resources
+D:\New Projecttttttttttttttttttttt\OCR\obj\Debug\NeuronDotNet.Samples.CharacterRecognition.MainForm.resources
+D:\New Projecttttttttttttttttttttt\OCR\obj\Debug\NeuronDotNet.Samples.OCR.Properties.Resources.resources
+D:\New Projecttttttttttttttttttttt\OCR\obj\Debug\ResGen.read.1.tlog
+D:\New Projecttttttttttttttttttttt\OCR\obj\Debug\ResGen.write.1.tlog
+F:\New Projecttttttttttttttttttttt\OCR\obj\Debug\OCR.csproj.ResolveComReference.cache
+F:\New Projecttttttttttttttttttttt\OCR\obj\Debug\OCR.exe
+F:\New Projecttttttttttttttttttttt\OCR\obj\Debug\OCR.pdb
+F:\New Projecttttttttttttttttttttt\OCR\bin\Debug\OCR.exe
+F:\New Projecttttttttttttttttttttt\OCR\bin\Debug\OCR.pdb
+F:\New Projecttttttttttttttttttttt\OCR\bin\Debug\NeuronDotNet.Core.dll
+F:\New Projecttttttttttttttttttttt\OCR\bin\Debug\NeuronDotNet.Core.xml
+F:\New Projecttttttttttttttttttttt\OCR\obj\Debug\OCR.csprojResolveAssemblyReference.cache
+F:\New Projecttttttttttttttttttttt\OCR\obj\Debug\Interop.MODI.dll
+F:\New Projecttttttttttttttttttttt\OCR\obj\Debug\NeuronDotNet.Samples.CharacterRecognition.AboutUs.resources
+F:\New Projecttttttttttttttttttttt\OCR\obj\Debug\NeuronDotNet.Samples.CharacterRecognition.CaptureImage.resources
+F:\New Projecttttttttttttttttttttt\OCR\obj\Debug\NeuronDotNet.Samples.CharacterRecognition.Home.resources
+F:\New Projecttttttttttttttttttttt\OCR\obj\Debug\NeuronDotNet.Samples.CharacterRecognition.ImageToText.resources
+F:\New Projecttttttttttttttttttttt\OCR\obj\Debug\NeuronDotNet.Samples.CharacterRecognition.MainForm.resources
+F:\New Projecttttttttttttttttttttt\OCR\obj\Debug\NeuronDotNet.Samples.OCR.Properties.Resources.resources
+F:\New Projecttttttttttttttttttttt\OCR\obj\Debug\OCR.csproj.GenerateResource.Cache
+F:\New Projecttttttttttttttttttttt\OCR\obj\Debug\NeuronDotNet.Samples.CharacterRecognition.Form1.resources
+F:\New Projecttttttttttttttttttttt\OCR\bin\Debug\OCR.exe.config
+F:\New Projecttttttttttttttttttttt\OCR\bin\Debug\zxing.dll
+F:\New Projecttttttttttttttttttttt\OCR\bin\Debug\zxing.pdb
+F:\New Projecttttttttttttttttttttt\OCR\bin\Debug\zxing.xml
+F:\New Projecttttttttttttttttttttt\OCR\obj\Debug\NeuronDotNet.Samples.CharacterRecognition.User.resources
+F:\New Projecttttttttttttttttttttt\OCR_Minor\bin\Debug\OCR.exe.config
+F:\New Projecttttttttttttttttttttt\OCR_Minor\obj\Debug\Interop.MODI.dll
+F:\New Projecttttttttttttttttttttt\OCR_Minor\obj\Debug\OCR.csproj.ResolveComReference.cache
+F:\New Projecttttttttttttttttttttt\OCR_Minor\obj\Debug\OCR.exe
+F:\New Projecttttttttttttttttttttt\OCR_Minor\obj\Debug\OCR.pdb
+F:\New Projecttttttttttttttttttttt\OCR_Minor\bin\Debug\OCR.exe
+F:\New Projecttttttttttttttttttttt\OCR_Minor\bin\Debug\OCR.pdb
+F:\New Projecttttttttttttttttttttt\OCR_Minor\bin\Debug\NeuronDotNet.Core.dll
+F:\New Projecttttttttttttttttttttt\OCR_Minor\bin\Debug\NeuronDotNet.Core.xml
+F:\New Projecttttttttttttttttttttt\OCR_Minor\bin\Debug\zxing.pdb
+F:\New Projecttttttttttttttttttttt\OCR_Minor\bin\Debug\zxing.xml
+F:\New Projecttttttttttttttttttttt\OCR_Minor\obj\Debug\OCR.csprojResolveAssemblyReference.cache
+F:\New Projecttttttttttttttttttttt\OCR_Minor\obj\Debug\NeuronDotNet.Samples.CharacterRecognition.AboutUs.resources
+F:\New Projecttttttttttttttttttttt\OCR_Minor\obj\Debug\NeuronDotNet.Samples.CharacterRecognition.CaptureImage.resources
+F:\New Projecttttttttttttttttttttt\OCR_Minor\obj\Debug\NeuronDotNet.Samples.CharacterRecognition.Home.resources
+F:\New Projecttttttttttttttttttttt\OCR_Minor\obj\Debug\NeuronDotNet.Samples.CharacterRecognition.MainForm.resources
+F:\New Projecttttttttttttttttttttt\OCR_Minor\obj\Debug\NeuronDotNet.Samples.OCR.Properties.Resources.resources
+F:\New Projecttttttttttttttttttttt\OCR_Minor\obj\Debug\OCR.csproj.GenerateResource.Cache
+D:\Documents\Major\OCR_Minor\obj\Debug\OCR.csprojResolveAssemblyReference.cache
+D:\Documents\Major\OCR_Minor\obj\Debug\OCR.csproj.ResolveComReference.cache
+D:\Documents\Major\OCR_Minor\obj\Debug\NeuronDotNet.Samples.CharacterRecognition.AboutUs.resources
+D:\Documents\Major\OCR_Minor\obj\Debug\NeuronDotNet.Samples.CharacterRecognition.CaptureImage.resources
+D:\Documents\Major\OCR_Minor\obj\Debug\NeuronDotNet.Samples.CharacterRecognition.Home.resources
+D:\Documents\Major\OCR_Minor\obj\Debug\NeuronDotNet.Samples.CharacterRecognition.MainForm.resources
+D:\Documents\Major\OCR_Minor\obj\Debug\NeuronDotNet.Samples.OCR.Properties.Resources.resources
+D:\Documents\Major\OCR_Minor\obj\Debug\OCR.csproj.GenerateResource.Cache
+D:\Documents\Major\OCR_Minor\obj\Debug\OCR.csproj.CoreCompileInputs.cache
+D:\Documents\Major\OCR_Minor\obj\Debug\OCR.exe
+D:\Documents\Major\OCR_Minor\obj\Debug\OCR.pdb
+D:\Documents\Major\OCR_Minor\bin\Debug\OCR.exe.config
+D:\Documents\Major\OCR_Minor\bin\Debug\OCR.exe
+D:\Documents\Major\OCR_Minor\bin\Debug\OCR.pdb
+D:\Documents\Major\OCR_Minor\bin\Debug\NeuronDotNet.Core.dll
+D:\Documents\Major\OCR_Minor\bin\Debug\NeuronDotNet.Core.xml
+D:\Documents\Major\OCR_Minor\bin\Debug\zxing.pdb
+D:\Documents\Major\OCR_Minor\bin\Debug\zxing.xml
+D:\Documents\Major\OCR_Minor\obj\Debug\Interop.MODI.dll
